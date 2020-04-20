@@ -16,4 +16,4 @@ basic commands
 }
 ```
 
-![](Images/hexagon.png)
+-> ![](Images/hexagon.png) <-
