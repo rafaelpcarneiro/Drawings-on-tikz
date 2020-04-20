@@ -16,5 +16,4 @@ basic commands
 }
 ```
 
-!(hexagon.pdf)
-!(https://github.com/rafaelpcarneiro/Drawings-on-tikz/hexagon.png)
+!(https://github.com/rafaelpcarneiro/Drawings-on-tikz/blob/master/hexagon.png)
