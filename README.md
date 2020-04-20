@@ -15,3 +15,6 @@ basic commands
     \draw (\x, 1) circle (0.1cm);
 }
 ```
+
+!(hexagon.pdf)
+!(hexagon.png)
