@@ -16,4 +16,4 @@ basic commands
 }
 ```
 
-!(https://github.com/rafaelpcarneiro/Drawings-on-tikz/blob/master/hexagon.png)
+![](Images/hexagon.png)
