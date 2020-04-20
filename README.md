@@ -17,4 +17,4 @@ basic commands
 ```
 
 !(hexagon.pdf)
-!(hexagon.png)
+!(https://github.com/rafaelpcarneiro/Drawings-on-tikz/hexagon.png)
